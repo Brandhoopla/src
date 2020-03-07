@@ -1900,3 +1900,109 @@ section.lazy-placeholder:after {
   width: 100%;
   overflow: hidden;
 }
+.cid-rSyeluXk2t {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rSyeluXk2t .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-rSyeluXk2t .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-rSyeluXk2t .plan-header,
+.cid-rSyeluXk2t .plan-body {
+  background-color: #fff;
+}
+.cid-rSyeluXk2t .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-rSyeluXk2t .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-rSyeluXk2t .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-rSyeluXk2t .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-rSyeluXk2t hr {
+  margin: 2rem 0;
+}
+.cid-rSyeKoeWTW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rSyeKoeWTW .content {
+    text-align: center;
+  }
+  .cid-rSyeKoeWTW .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rSyeKoeWTW .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rSyeKoeWTW .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rSyeKoeWTW .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rSyeKoeWTW .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rSyeKoeWTW .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rSyeKoeWTW .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rSyeKoeWTW .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rSyeKoeWTW .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rSyeKoeWTW .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rSyeKoeWTW .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rSyeKoeWTW .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
